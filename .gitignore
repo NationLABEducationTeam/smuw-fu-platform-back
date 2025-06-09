@@ -1,6 +1,5 @@
 # Environment variables
 .env
-.env.*
 
 # Virtual Environment
 venv/
@@ -47,3 +46,10 @@ Thumbs.db
 # Project specific
 google-trend/
 couchebase_python/
+
+smwu-fast-server/
+smwu-fast-server/*
+
+
+tests/
+tests/*
